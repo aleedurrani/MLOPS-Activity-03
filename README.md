@@ -38,9 +38,12 @@ docker-compose down
 
 ## Project Structure
 
-├── client/ # React frontend
-├── server/ # Node.js backend
+```plaintext
+.
+├── client/          # React frontend
+├── server/          # Node.js backend
 └── docker-compose.yml
+```
 
 
 ## Development
